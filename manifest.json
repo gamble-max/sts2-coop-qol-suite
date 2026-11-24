@@ -1,0 +1,12 @@
+{
+  "id": "CoopQolSuite",
+  "name": "联机功能优化聚合包 (Co-op QoL Suite)",
+  "author": "CoopQolSuite",
+  "description": "单双人通用集成顶栏 (Auto CN/EN)：快捷SL/三槽回档/上帝创造面板(F8)/只读观战(Tab)/大屏弹幕与药水卡牌状态一键声明(Enter/G)/四分类事件流(F7)/伤害统计(F6) | All-in-one Solo & Co-op QoL Bar (Auto-follows game language)",
+  "version": "1.2.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false,
+  "min_game_version": "0.110.0"
+}
